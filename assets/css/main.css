@@ -3130,6 +3130,24 @@ input, select, textarea {
 			}
 
 		}
+/*three */
+		#three {
+			background-image: url(https://images.unsplash.com/photo-1561987323-41790efea45e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80);
+		}
+		.threeText {
+			border: 20px solid red;
+			border-radius: 20px;
+			border-color: #493382;
+			background-color: #493382;
+		}
+		.split.style1{
+			border: 20px solid red;
+			border-radius: 20px;
+			border-color: #493382;
+			background-color: #493382;
+			text-emphasis-color: blue;
+
+		}
 
 /* Table */
 
